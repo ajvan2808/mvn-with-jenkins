@@ -1,7 +1,7 @@
 import org.junit.Test;
 import org.example.bubbleSort;
 
-public class testBubbleSort {
+public class TestBubbleSort {
     private bubbleSort BubbleSort;
 
     @Test

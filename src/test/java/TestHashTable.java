@@ -3,7 +3,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.example.hashTable;
 
-public class testHashTable {
+public class TestHashTable {
     private hashTable HashTable;
 
     @Before

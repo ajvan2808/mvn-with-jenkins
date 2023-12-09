@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.example.fibMemoized;
 import org.example.fibonacciNaive;
 
-public class testFibonacci {
+public class TestFibonacci {
     private fibonacciNaive naive;
     private fibMemoized memo;
     

@@ -3,7 +3,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.example.binarySearchTree;
 
-public class testBinarySearchTree {
+public class TestBinarySearchTree {
     private binarySearchTree bst;
 
     @Before

@@ -2,7 +2,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.example.maxInHeap;
 
-public class testMaxInHeap {
+public class TestMaxInHeap {
     private maxInHeap binaryHeap;
 
     @Test

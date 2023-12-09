@@ -3,7 +3,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.example.recursion;
 
-public class testRecursion {
+public class TestRecursion {
     private recursion Recursion;
 
     @Before

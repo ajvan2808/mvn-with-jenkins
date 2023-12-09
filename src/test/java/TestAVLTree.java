@@ -2,7 +2,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.example.AVLtree;
 
-public class testAVLTree {
+public class TestAVLTree {
     private AVLtree avl;
 
     @Before

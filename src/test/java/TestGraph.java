@@ -2,7 +2,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.example.Graph;
 
-public class testGraph {
+public class TestGraph {
     private Graph G;
 
     @Before
